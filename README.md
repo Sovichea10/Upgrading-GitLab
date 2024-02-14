@@ -10,7 +10,7 @@ GitLab, a DevOps software package that can develop, secure, and operate software
 # Backup and Restore Date of Old Version
 Go to see <a href="https://docs.gitlab.com/ee/administration/backup_restore/backup_gitlab.html">Backup here</a>
 
-Go to see <a> href="https://docs.gitlab.com/ee/administration/backup_restore/restore_gitlab.html">Restore here</a>
+Go to see <a href="https://docs.gitlab.com/ee/administration/backup_restore/restore_gitlab.html">Restore here</a>
 
 # Upgrading-GitLab
 Step-to-upgrade-gitlab
