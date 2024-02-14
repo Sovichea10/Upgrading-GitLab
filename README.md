@@ -7,7 +7,7 @@ GitLab, a DevOps software package that can develop, secure, and operate software
 
 [![GitLab-Documentation](https://img.shields.io/badge/gitlab-documentation-green)](https://docs.gitlab.com/)
 
-# Backup and Restore Date of Old Version
+# Backup and Restore Data of Old Version
 See <a href="https://docs.gitlab.com/ee/administration/backup_restore/backup_gitlab.html">Backup here</a>
 
 See <a href="https://docs.gitlab.com/ee/administration/backup_restore/restore_gitlab.html">Restore here</a>
