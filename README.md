@@ -5,5 +5,7 @@
 # About
 GitLab, a DevOps software package that can develop, secure, and operate software.
 
+![Static Badge](https://img.shields.io/badge/gitlab-3C78C4)(https://docs.gitlab.com/)
+
 # Upgrading-GitLab
 Step-to-upgrade-gitlab
