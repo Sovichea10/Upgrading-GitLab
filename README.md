@@ -16,4 +16,7 @@ See <a href="https://docs.gitlab.com/ee/administration/backup_restore/restore_gi
 Step-to-upgrade-gitlab.
 See upgrade documentation: https://docs.gitlab.com/ee/update/
 
-*Currently. We're using version 13.11.3-ee*. 
+*Currently. We're using version 13.11.3-ee*.
+
+## Upgrading path
+Here is how to upgrade to the latest version: https://gitlab-com.gitlab.io/support/toolbox/upgrade-path/?current=13.11.7&downtime=true 
