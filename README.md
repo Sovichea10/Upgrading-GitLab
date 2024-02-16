@@ -7,6 +7,9 @@ GitLab, a DevOps software package that can develop, secure, and operate software
 
 [![GitLab-Documentation](https://img.shields.io/badge/gitlab-documentation-green)](https://docs.gitlab.com/)
 
+# Installation
+Commonly steps to install <a href="https://about.gitlab.com/install/#ubuntu">here</a>
+
 # Backup and Restore Data of Old Version
 See <a href="https://docs.gitlab.com/ee/administration/backup_restore/backup_gitlab.html">Backup here</a>
 
